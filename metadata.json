@@ -1,7 +1,8 @@
 {
   "name": "Ton21",
   "symbol": "T21",
-  "description": "Ton21 — токен сообщества в сети TON",
+  "description": "Ton21 — токен сообщества в сети TON (обновлено)",
   "image": "https://raw.githubusercontent.com/VLADIMIRVLE/ton21-logo/main/t21.png",
-  "decimals": 9
+  "decimals": 9,
+  "version": "1.0"
 }
