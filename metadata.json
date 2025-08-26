@@ -1,8 +1,8 @@
 {
   "name": "Ton21",
   "symbol": "T21",
-  "description": "Ton21 — токен сообщества в сети TON (обновлено)",
-  "image": "https://raw.githubusercontent.com/VLADIMIRVLE/ton21-logo/main/t21.png",
+  "description": "Ton21 (T21) – limited 21 million supply token on TON, created for games and community.",
+  "image": "https://raw.githubusercontent.com/VLADIMIRVLE/ton21-logo/main/ChatGPT%20Image%20Aug%2025,%202025,%2006_27_12%20PM.png",
   "decimals": 9,
   "version": "1.0"
 }
