@@ -1,0 +1,7 @@
+{
+  "name": "Ton21",
+  "symbol": "T21",
+  "description": "Ton21 — токен сообщества в сети TON",
+  "image": "https://raw.githubusercontent.com/VLADIMIRVLE/ton21-logo/main/t21.png",
+  "decimals": 9
+}
